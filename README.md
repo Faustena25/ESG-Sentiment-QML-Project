@@ -64,10 +64,10 @@ Raw text
 
 | Model                | Type      | Mean CV Accuracy | Notes |
 |-----------------------|-----------|:-----------------:|-------|
-| Logistic Regression   | Classical | _fill in_          | Strong, stable baseline |
-| RBF-SVM                | Classical | _fill in_          | Best-performing overall |
-| QSVM (ZZFeatureMap)    | Quantum   | _fill in_          | Limited by kernel scaling |
-| VQC (RealAmplitudes)   | Quantum   | _fill in_          | Trained via COBYLA/SPSA |
+| Logistic Regression   | Classical |  63.3% ± 5.7%         | Strong, stable baseline |
+| RBF-SVM                | Classical | 60.0% ± 11.3%        | Best-performing overall |
+| QSVM (ZZFeatureMap)    | Quantum   |32.2% ± 8.9%        | Limited by kernel scaling |
+| VQC (RealAmplitudes)   | Quantum   |35.6% ± 9.0%         | Trained via COBYLA/SPSA |
 
 > Replace the placeholders above with your actual cross-validation numbers from the notebook before publishing.
 
