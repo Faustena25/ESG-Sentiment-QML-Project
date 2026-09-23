@@ -142,7 +142,7 @@ This is an academic/coursework project rather than a novel research contribution
 
 ## Author
 
-**Tina** — MSc Data Science
+**Faustena** — MSc Data Science
 
 ## License
 
