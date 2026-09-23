@@ -144,6 +144,3 @@ This is an academic/coursework project rather than a novel research contribution
 
 **Faustena** — MSc Data Science
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to adapt this to your institution's or your own preferred license before publishing.
